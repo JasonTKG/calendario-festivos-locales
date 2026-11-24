@@ -2,6 +2,8 @@
 
 **Sitio: [festivos.govsimple.org](https://festivos.govsimple.org/)** · Descarga: [última versión](https://github.com/JasonTKG/calendario-festivos-locales/releases/latest)
 
+Archivado en Zenodo: [doi:10.5281/zenodo.24496779](https://doi.org/10.5281/zenodo.24496779) · también en [Kaggle](https://www.kaggle.com/datasets/jasontkg/fiestas-locales-de-espana-2027-municipios) y [Hugging Face](https://huggingface.co/datasets/lakerguy16/calendario-festivos-locales)
+
 Fiestas laborales locales de 2027 de los 1.167 municipios de Andalucía, Galicia y Canarias que figuran en las relaciones publicadas por sus comunidades, una fila por municipio y fecha, y las fiestas nacionales y autonómicas de 2026 y 2027 de cada comunidad según las relaciones del BOE. (Local, regional and national public holidays in Spain, read from the official bulletins.)
 
 ## Files
