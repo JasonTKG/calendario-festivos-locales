@@ -1,8 +1,8 @@
 # Fiestas laborales locales, autonómicas y nacionales de España, 2026 y 2027
 
-Fiestas laborales locales de 2027 de los 1.167 municipios de Andalucía, Galicia y Canarias que figuran en las relaciones publicadas por sus comunidades, una fila por municipio y fecha, y las fiestas nacionales y autonómicas de 2026 y 2027 de cada comunidad según las relaciones del BOE. (Local, regional and national public holidays in Spain, read from the official bulletins.)
+**Sitio: [festivos.govsimple.org](https://festivos.govsimple.org/)** · Descarga: [última versión](https://github.com/JasonTKG/calendario-festivos-locales/releases/latest)
 
-Site: https://festivos.govsimple.org/
+Fiestas laborales locales de 2027 de los 1.167 municipios de Andalucía, Galicia y Canarias que figuran en las relaciones publicadas por sus comunidades, una fila por municipio y fecha, y las fiestas nacionales y autonómicas de 2026 y 2027 de cada comunidad según las relaciones del BOE. (Local, regional and national public holidays in Spain, read from the official bulletins.)
 
 ## Files
 

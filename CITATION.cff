@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the sources named in README.md."
+type: dataset
+title: "Fiestas laborales locales, autonómicas y nacionales de España, 2026 y 2027"
+abstract: "Fiestas laborales locales de 2027 de los 1.167 municipios de Andalucía, Galicia y Canarias que figuran en las relaciones publicadas por sus comunidades, una fila por municipio y fecha, y las fiestas nacionales y autonómicas de 2026 y 2027 de cada comunidad según las relaciones del BOE. (Local, regional and national public holidays in Spain, read from the official bulletins.)"
+authors:
+  - name: "JasonTKG"
+    website: "https://github.com/JasonTKG"
+url: "https://festivos.govsimple.org/"
+repository: "https://github.com/JasonTKG/calendario-festivos-locales"
+license: CC0-1.0
+version: "2026.11.24"
+date-released: "2026-11-24"
+keywords:
+  - "dataset"
+  - "open-data"
+  - "spain"
+  - "festivos"
+  - "calendario-laboral"
+  - "public-holidays"
+  - "csv"
