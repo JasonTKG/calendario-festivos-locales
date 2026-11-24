@@ -9,7 +9,7 @@ authors:
 url: "https://festivos.govsimple.org/"
 repository: "https://github.com/JasonTKG/calendario-festivos-locales"
 license: CC0-1.0
-version: "2026.11.24"
+version: "2026.11.24.1"
 date-released: "2026-11-24"
 keywords:
   - "dataset"
